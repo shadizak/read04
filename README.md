@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Welcome to Read_04 Task
 
-You can use the [editor on GitHub](https://github.com/shadizak/read04/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## This Chapter (18) was helpful so I learned this concepts:
+1. It is very importance practicing technical side. however, the understanding goal of the website is essential1 and how to approach building a site.
+2. Understanding your audience and their needs.
+3. How to present information visitors want to see.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Some questions help us determine the site structure and design, such as:
+1. Will your site appeal to more women or men? What is the mix?
+2. Which country do your visitors live in?Do they live in urban or rural areas?
+3. What is the average income of visitors?What level of education do they have?
+4. What is their marital or family statusWhat is their occupation?
+5. How many hours do they work per week?
+6. How often do they use the web?
+7. What kind of device do they use to access the web?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shadizak/read04/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## This Chapter (17_8) was helpful so  I learned this concepts:
+1. Set up new HTML5 page with required doctype, title, head, nav,articles,section,main, and body tags.
+2. Create and organize headers, images, paragraphs, unordered lists, and other content in HTML elements by indenting, commenting, and labeling elements.
+3. Explain the difference between classes and IDsShare code, demonstrating coding best practices by creating on GitHub
